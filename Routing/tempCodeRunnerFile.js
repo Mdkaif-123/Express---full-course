@@ -1,0 +1,1 @@
+app.get("/AB?CD", (req,res) =>{
